@@ -1,6 +1,3 @@
-To include images that are hosted on an online server in your GitHub project description, you can use image URLs directly from a hosting service. Here’s the modified project description using placeholder URLs that you can replace with actual URLs of images you find online.
-
-```markdown
 # Cat vs Dog Image Classification Project
 
 ## Description
@@ -56,15 +53,4 @@ Contributions are welcome! Feel free to fork the repository, make your modificat
 ### License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-```
 
-### Steps to Add Photos from an Online Server:
-1. **Find Image Hosting**: You can use image hosting platforms like Imgur, Dropbox, Google Drive (make sure to get the shareable link), or any reliable image hosting service.
-  
-2. **Upload Images**: Upload the images you want to use to the selected platform.
-  
-3. **Get Direct Links**: Ensure you get direct links to the images (these usually end in .jpg, .png, etc.).
-
-4. **Replace Placeholder URLs**: Replace the placeholder URLs (e.g., `https://example.com/path-to-your-image.jpg`) in the Markdown with the actual URLs of your uploaded images.
-
-Make sure the images you select are free to use or appropriately credited. If you have any questions or need further help with your project, feel free to ask!
