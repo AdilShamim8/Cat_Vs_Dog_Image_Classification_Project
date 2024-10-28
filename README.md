@@ -7,10 +7,25 @@ The Cat vs Dog Image Classification Project is a machine learning initiative aim
 ### Features
 
 - **Dataset**: The project is built on a curated dataset comprising thousands of labeled images of cats and dogs, allowing the model to learn from diverse examples.
+  
+  ![Sample Dataset Images](images/sample_dataset.jpg) 
+
 - **Model Architecture**: A custom CNN model is designed and trained to extract relevant features from images, enhancing classification accuracy.
+
+  ![CNN Architecture Diagram](images/model_architecture.png)
+
 - **Data Preprocessing**: Various preprocessing techniques are applied, including normalization, augmentation, and resizing, to improve model robustness.
+
+  ![Data Augmentation Example](images/data_augmentation.png)
+
 - **Training and Validation**: The model is trained using a split of training and validation datasets to ensure generalization and prevent overfitting.
+  
+  ![Training Loss and Accuracy](images/training_progress.png)
+
 - **Performance Metrics**: The project evaluates model performance using metrics such as accuracy, precision, recall, and F1 score.
+
+  ![Confusion Matrix](images/confusion_matrix.png)
+
 - **Visualization**: Includes tools for visualizing training progress, metrics, and confusion matrices for comprehensive analysis.
 
 ### Objectives
@@ -38,6 +53,5 @@ Contributions are welcome! Feel free to fork the repository, make your modificat
 ### License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
+```
 
