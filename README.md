@@ -2,6 +2,8 @@
 
 Welcome to the Cat vs. Dog Image Classification Project. This isn't just another machine learning exercise; it's a testament to how beautifully simple ideas can transform complex problems. Imagine empowering computers to see, think, and decide – effortlessly distinguishing between your cuddly cat and loyal dog.
 
+![cats vs dogs Classification](https://camo.githubusercontent.com/715bda8db80323a92dc133d165aa0a93f9824a739c68edbeaca7dd9b486ee562/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333834302f312a6f4233533579484868766f75674a6b50587563386f672e676966)
+
 ---
 
 ###  Why This Project Matters
